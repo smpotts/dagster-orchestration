@@ -1,0 +1,5 @@
+# created by virtualenv automatically
+venv/
+dagster-project.egg-info/
+tmp2guz5dg7/*
+.idea/
